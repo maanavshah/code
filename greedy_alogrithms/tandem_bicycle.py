@@ -1,3 +1,4 @@
+# O(nlogn) time | O(1) space
 def tandemBicycle(redShirtSpeeds, blueShirtSpeeds, fastest):
     totalLength = len(redShirtSpeeds)
     redShirtSpeeds.sort()
